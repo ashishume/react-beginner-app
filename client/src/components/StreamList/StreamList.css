@@ -1,0 +1,7 @@
+.card{
+    background-color: rgb(236, 236, 236);
+}
+
+.btn-outline-primary,.btn-outline-danger{
+    width: 100px;
+}
